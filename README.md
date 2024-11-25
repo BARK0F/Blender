@@ -15,10 +15,10 @@ le texturing et l'utilisation des lumières et effet de RayTracing.
 ![coffee](/assets/coffee_shop.png)
 
 J'ai ensuite ajouté une animation avec un petit jeu de lumière pour débuter sur l'animation.
+Malheureusement la conversion de la vidéo en GIF à nettement réduit la qualité de la vidéo.
 
-<video src="/assets/0001-0120.mp4" controls autoplay loop muted width="600">
-   Votre navigateur ne supporte pas la lecture des vidéos.
-</video>
+![Description](/assets/0001-0120.gif)
+
 
 
 
