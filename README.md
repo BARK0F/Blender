@@ -13,3 +13,5 @@ Ma première scène 3D est un coffee shop que j'ai réaliser en seulement 6H. J'
 le texturing et l'utilisation des lumières et effet de RayTracing.
 
 ![coffee](https://github.com/BARK0F/Blender/tree/master/assets/coffee_shop.png)
+<img src="https://github.com/BARK0F/Blender/tree/master/assets/coffee_shop.png" alt="Description" width="500">
+
