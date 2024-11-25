@@ -34,7 +34,7 @@ Ma plus grosse réalistion est une scène 3D d'un immeuble. Je suis une formatio
 cette formation combine tout ces outils dans cette modelisation.
 
 Mon avancement :
-![immeuble](/assets/immeuble.png)
+![immeuble](/assets/immeuble.jpg)
 
 Et voici le rendu final que je suis censé atteindre à la fin de la formation :
 
