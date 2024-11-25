@@ -19,7 +19,22 @@ Malheureusement la conversion de la vidéo en GIF à nettement réduit la qualit
 
 ![Description](/assets/0001-0120.gif)
 
+## Chaîne de production
+Pour ma première animation, j'ai choisi de réaliser une chaîne de production, cela m'a pris 13H à réaliser.
+![Description](/assets/animation.gif)
 
+## Canette de RedBull
+J'ai essayé de réaliser une scène 3D réaliste, pour cela j'ai choisi de reproduire une canette de RedBull dans un tas de glaçons. Il m'a fallu 4H pour 
+la terminer.
+![redbull](/assets/RedBull.png)
+Cependant le rendu des glaçons me décois et je compte bien reprendre le projet et améliorer les glaçons et la condensation sur la canette.
 
+## Immeuble
+Ma plus grosse réalistion est une scène 3D d'un immeuble. Je suis une formation en ligne pour apprendre tous les outils du logiciels, et 
+cette formation combine tout ces outils dans cette modelisation.
 
+Mon avancement :
+![immeuble](/assets/immeuble.png)
+
+Et voici le rendu final que je suis censé atteindre à la fin de la formation :
 
