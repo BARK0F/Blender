@@ -16,7 +16,10 @@ le texturing et l'utilisation des lumières et effet de RayTracing.
 
 J'ai ensuite ajouté une animation avec un petit jeu de lumière pour débuter sur l'animation.
 
-[![Miniature](/assets/coffee_shop.png)](/assets/0001-0120.mp4)
+<video src="/assets/0001-0120.mp4" controls autoplay loop muted width="600">
+   Votre navigateur ne supporte pas la lecture des vidéos.
+</video>
+
 
 
 
