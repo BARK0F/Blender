@@ -37,4 +37,5 @@ Mon avancement :
 ![immeuble](/assets/immeuble.jpg)
 
 Et voici le rendu final que je suis censé atteindre à la fin de la formation :
+![final](/assets/image.png)
 
